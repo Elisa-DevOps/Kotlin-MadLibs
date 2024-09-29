@@ -1,3 +1,7 @@
+//Project: Codecademy Mad Libs Project
+//Purpose: Fun fill in the blanks story
+//Author: Elisa Aldridge
+
 fun main () {
   
     val costOfGas = 2.28
